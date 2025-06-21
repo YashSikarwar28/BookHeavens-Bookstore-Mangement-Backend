@@ -1,6 +1,6 @@
-# 📖 BookHeavens – BookStore Management Frontend
+# 📖 BookHeavens – BookStore Management Backend
 
-Welcome to **BookHeavens**, the sleek and user-friendly **frontend** of a bookstore management system. Built as a React application, it delivers a seamless experience for browsing, managing inventory, and interacting with book lovers everywhere.
+Welcome to **BookHeavens**, the sleek and user-friendly bookstore management system. Built as a React application, it delivers a seamless experience for browsing, managing inventory, and interacting with book lovers everywhere.
 
 ![image alt](https://github.com/YashSikarwar28/BookHeavens-BookStore-Management-Frontend/blob/2325b01337fba6acf6c28b4c80aff7c8c9fdd07b/Screenshot%20(1).png)
 
@@ -35,6 +35,7 @@ Welcome to **BookHeavens**, the sleek and user-friendly **frontend** of a bookst
 - **Styling**: CSS Modules / Tailwind CSS  
 - **Routing**: React Router v6  
 - **Build Tools**: Vite / Webpack / Create React App
+- **Backend**: Node JS / Express JS
 
 ---
 ## 🚀 Getting Started
